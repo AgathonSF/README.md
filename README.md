@@ -1,7 +1,8 @@
-# README.md
+# :wave: Hello, perkenalkan saya Everald Ariel Agathon
 
-TUGAS PRAKTIKUM METODE KOMPUTASI 05
+# 💫 About Me:
 
-Nama : Everald Ariel Agathon
-NIM  : 20/459223/PA/19884
-Prodi: Geofisika
+- Mahasiswa S1 Geofisika Universitas Gadjah Mada
+- Lahir di Brebes, 24 November 2000
+- Menyukai Video game, Komik, dan Film
+- Thanks for your attention
